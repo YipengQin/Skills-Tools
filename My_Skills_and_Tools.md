@@ -16,6 +16,11 @@ Web Front-End Developing:
 2. jQuery, AngularJS
 
 
+Linear Algebra library: Eigen
+
+
 Computer Graphics:
 
-1. 3D Mesh viewing and processing: Autodesk Maya, Meshlab
+1. 3D Mesh viewing and processing : Autodesk Maya, Meshlab
+
+2. Geometry Processing : libigl
